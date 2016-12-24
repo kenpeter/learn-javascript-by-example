@@ -10,3 +10,13 @@ job by:
 ## Example
 
 * [hello_world_express](https://github.com/kenpeter/hello_world_express)
+* [react_judo](https://github.com/kenpeter/react_judo)
+* [parallax with jquery](https://github.com/kenpeter/parallax)
+* [react_map](https://github.com/kenpeter/react_map)
+
+* [react_timer](https://github.com/kenpeter/react_timer)
+* [react_basic](https://github.com/kenpeter/react_basic)
+* [express_cart](https://github.com/kenpeter/express_cart)
+
+
+
