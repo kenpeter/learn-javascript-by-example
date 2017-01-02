@@ -1,7 +1,9 @@
 ## Intro
 
-I was PHP developer. To be honest, I didn't know much about javascript. I wonder whether I can land a javasript
-job by:
+Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university) and [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers#why-use-it). 
+
+All I want to do is learning javascript by examples (and hopefully get a relevant job). Some people are very good at building their personal projects. Some people are good at following examples and tutorials. I belong to the 2nd category. Again, all I want to do is to learn some javascript by examples (and hopefully get a relevant job).
+
 * Study Tutorials
 * Study demos
 * Customize demos
@@ -16,6 +18,6 @@ job by:
 * [react_timer](https://github.com/kenpeter/react_timer)
 * [react_basic](https://github.com/kenpeter/react_basic)
 * [express_cart](https://github.com/kenpeter/express_cart)
-
+* 
 
 
