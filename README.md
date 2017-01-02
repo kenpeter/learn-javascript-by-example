@@ -18,6 +18,6 @@ All I want to do is learning javascript by examples (and hopefully get a relevan
 * [react_timer](https://github.com/kenpeter/react_timer)
 * [react_basic](https://github.com/kenpeter/react_basic)
 * [express_cart](https://github.com/kenpeter/express_cart)
-* 
+* [test_vue](https://github.com/kenpeter/test_vue) 
 
 
