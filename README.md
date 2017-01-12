@@ -22,3 +22,4 @@ All I want to do is learning javascript by examples (and hopefully get a relevan
 * [test_vue_routing](https://github.com/kenpeter/test_vue_routing)
 * [react_increment](https://github.com/kenpeter/react_increment)
 * [redux_hello_world](https://github.com/kenpeter/redux_hello_world)
+* [my_react_trivia](https://github.com/kenpeter/my_react_trivia) and [my_react_trivia_back](https://github.com/kenpeter/my_react_trivia_back)
