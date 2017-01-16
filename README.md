@@ -11,6 +11,7 @@ All I want to do is learning javascript by examples (and hopefully get a relevan
 
 ## Example
 
+* [my_react_resume](http://resume.shopshop.space)
 * [hello_world_express](https://github.com/kenpeter/hello_world_express)
 * [react_judo](https://github.com/kenpeter/react_judo)
 * [parallax with jquery](https://github.com/kenpeter/parallax)
