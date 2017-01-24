@@ -24,4 +24,6 @@ All I want to do is learning javascript by examples (and hopefully get a relevan
 * [react_increment](https://github.com/kenpeter/react_increment), add stuff
 * [redux_hello_world](https://github.com/kenpeter/redux_hello_world), redux hello world
 * [my_react_trivia](https://github.com/kenpeter/my_react_trivia) and [my_react_trivia_back](https://github.com/kenpeter/my_react_trivia_back), a simple flip card trivia.
-* [my_hak_news](https://github.com/kenpeter/my_hak_news), a hacker news feed built with react native.
+* [my_hak_news](https://github.com/kenpeter/my_hak_news), a hacker news feed built with react native
+* [mean_contact_list](https://github.com/kenpeter/mean_contact_list), a simple contact list with mean stack
+* [redux_hello_world_1](https://github.com/kenpeter/redux_hello_world_1), another hello world redux demo
