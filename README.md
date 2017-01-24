@@ -13,15 +13,15 @@ All I want to do is learning javascript by examples (and hopefully get a relevan
 
 * [my_react_resume](http://resume.shopshop.space), a resume built with react
 * [hello_world_express](https://github.com/kenpeter/hello_world_express), hello world app with express as backend
-* [react_judo](https://github.com/kenpeter/react_judo)
-* [parallax with jquery](https://github.com/kenpeter/parallax)
-* [react_map](https://github.com/kenpeter/react_map)
-* [react_timer](https://github.com/kenpeter/react_timer)
-* [react_basic](https://github.com/kenpeter/react_basic)
-* [express_cart](https://github.com/kenpeter/express_cart)
-* [test_vue](https://github.com/kenpeter/test_vue) 
-* [test_vue_routing](https://github.com/kenpeter/test_vue_routing)
-* [react_increment](https://github.com/kenpeter/react_increment)
-* [redux_hello_world](https://github.com/kenpeter/redux_hello_world)
+* [react_judo](https://github.com/kenpeter/react_judo), diplay judo athlete info
+* [parallax with jquery](https://github.com/kenpeter/parallax), parallax effect with jquery
+* [react_map](https://github.com/kenpeter/react_map), simple google map web app with react
+* [react_timer](https://github.com/kenpeter/react_timer), simple react timer
+* [react_basic](https://github.com/kenpeter/react_basic), very basic react
+* [express_cart](https://github.com/kenpeter/express_cart), a shopping cart with express as backend and mongo as db.
+* [test_vue](https://github.com/kenpeter/test_vue), test vue js
+* [test_vue_routing](https://github.com/kenpeter/test_vue_routing), vue js routing
+* [react_increment](https://github.com/kenpeter/react_increment), add stuff
+* [redux_hello_world](https://github.com/kenpeter/redux_hello_world), redux hello world
 * [my_react_trivia](https://github.com/kenpeter/my_react_trivia) and [my_react_trivia_back](https://github.com/kenpeter/my_react_trivia_back)
 * [my_hak_news](https://github.com/kenpeter/my_hak_news), a hacker news feed built with react native.
