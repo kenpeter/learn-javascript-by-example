@@ -11,8 +11,8 @@ All I want to do is learning javascript by examples (and hopefully get a relevan
 
 ## Example
 
-* [my_react_resume](http://resume.shopshop.space)
-* [hello_world_express](https://github.com/kenpeter/hello_world_express)
+* [my_react_resume](http://resume.shopshop.space), a resume built with react
+* [hello_world_express](https://github.com/kenpeter/hello_world_express), hello world app with express as backend
 * [react_judo](https://github.com/kenpeter/react_judo)
 * [parallax with jquery](https://github.com/kenpeter/parallax)
 * [react_map](https://github.com/kenpeter/react_map)
@@ -24,3 +24,4 @@ All I want to do is learning javascript by examples (and hopefully get a relevan
 * [react_increment](https://github.com/kenpeter/react_increment)
 * [redux_hello_world](https://github.com/kenpeter/redux_hello_world)
 * [my_react_trivia](https://github.com/kenpeter/my_react_trivia) and [my_react_trivia_back](https://github.com/kenpeter/my_react_trivia_back)
+* [my_hak_news](https://github.com/kenpeter/my_hak_news), a hacker news feed built with react native.
